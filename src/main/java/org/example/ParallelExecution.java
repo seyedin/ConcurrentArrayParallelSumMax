@@ -54,3 +54,4 @@ public class ParallelExecution {
         System.out.println("Max: " + maxResult[0]);
     }
 }
+
